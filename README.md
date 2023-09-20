@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🏛️ I'm a Computer Science Undergrad from [BITS Hyderabad](https://www.bits-pilani.ac.in/)
+- 🏛️ I'm a Computer Science Undergrad from [BITS Pilani, Hyderabad Campus](https://www.bits-pilani.ac.in/)
 - 💬 Feel free to contact me [here]()
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=supergi0&show_icons=true)
