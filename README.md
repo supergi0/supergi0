@@ -7,6 +7,6 @@
 </p>
 
 - 🏛️ I'm a Computer Science Undergrad from [BITS Pilani, Hyderabad Campus](https://www.bits-pilani.ac.in/)
-- 💬 Feel free to contact me [here]()
+- 💬 Feel free to contact me over **sagar.supergi0@gmail.com**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=supergi0&show_icons=true)
