@@ -4,6 +4,6 @@
 <img align="right" src="https://skillicons.dev/icons?i=nodejs,laravel,java,c,rust,php,mysql,postgres,mongodb,&perline=3" />
 
 
-- 🏛️ I'm Sagar, a computer science undergrad from **BITS Pilani, Hyderabad Campus**
+- 🏛️ I'm Sagar, a computer science grad from **BITS Pilani, Hyderabad Campus**
 - Diving deep into database systems🚀
-- 💬 Hit me up if you have anything interesting in mind [here](https://github.com/supergi0?tab=repositories)
+- 💬 Hit me up if you have anything interesting in mind, via [mail](mailto:sagar.supergi0@gmail.com).
